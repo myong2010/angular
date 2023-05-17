@@ -1,0 +1,296 @@
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/appsettings.json
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/net6webAPI
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/net6webAPI.deps.json
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/net6webAPI.runtimeconfig.json
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/net6webAPI.pdb
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Azure.Core.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Azure.Identity.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Humanizer.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.CodeDom.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.csproj.AssemblyReference.cache
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.AssemblyInfoInputs.cache
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.AssemblyInfo.cs
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.csproj.CoreCompileInputs.cache
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/staticwebassets/msbuild.net6webAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.net6webAPI.props
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.net6webAPI.props
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.net6webAPI.props
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/scopedcss/bundle/net6webAPI.styles.css
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.csproj.CopyComplete
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/refint/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.pdb
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/net6webAPI.genruntimeconfig.cache
+/Users/jiling/Desktop/Yong/net6webAPI/obj/Debug/net6.0/ref/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/net6webAPI.staticwebassets.runtime.json
+/Users/jiling/Desktop/Yong/net6webAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/appsettings.Development.json
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/appsettings.json
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/net6webAPI.staticwebassets.runtime.json
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/net6webAPI
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/net6webAPI.deps.json
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/net6webAPI.runtimeconfig.json
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/net6webAPI.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/net6webAPI.pdb
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Azure.Core.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Azure.Identity.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Humanizer.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.CodeDom.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.csproj.AssemblyReference.cache
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.AssemblyInfoInputs.cache
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.AssemblyInfo.cs
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.csproj.CoreCompileInputs.cache
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/staticwebassets/msbuild.net6webAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/staticwebassets/msbuild.build.net6webAPI.props
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.net6webAPI.props
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.net6webAPI.props
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/scopedcss/bundle/net6webAPI.styles.css
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.csproj.CopyComplete
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/refint/net6webAPI.dll
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.pdb
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/net6webAPI.genruntimeconfig.cache
+/Users/jiling/Desktop/Yong/potfolio /net6webAPI 0406/obj/Debug/net6.0/ref/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI /bin/Debug/net6.0/appsettings.Development.json
+/Users/jiling/Desktop/Yong/net6webAPI /bin/Debug/net6.0/appsettings.json
+/Users/jiling/Desktop/Yong/net6webAPI /bin/Debug/net6.0/net6webAPI.staticwebassets.runtime.json
+/Users/jiling/Desktop/Yong/net6webAPI /bin/Debug/net6.0/net6webAPI
+/Users/jiling/Desktop/Yong/net6webAPI /bin/Debug/net6.0/net6webAPI.deps.json
+/Users/jiling/Desktop/Yong/net6webAPI /bin/Debug/net6.0/net6webAPI.runtimeconfig.json
+/Users/jiling/Desktop/Yong/net6webAPI /bin/Debug/net6.0/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI /bin/Debug/net6.0/net6webAPI.pdb
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.csproj.AssemblyReference.cache
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.AssemblyInfoInputs.cache
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.AssemblyInfo.cs
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.csproj.CoreCompileInputs.cache
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/staticwebassets/msbuild.net6webAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/staticwebassets/msbuild.build.net6webAPI.props
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.net6webAPI.props
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.net6webAPI.props
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/staticwebassets.build.json
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/staticwebassets.development.json
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/scopedcss/bundle/net6webAPI.styles.css
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.csproj.CopyComplete
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/refint/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.pdb
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/net6webAPI.genruntimeconfig.cache
+/Users/jiling/Desktop/Yong/net6webAPI /obj/Debug/net6.0/ref/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/appsettings.Development.json
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/appsettings.json
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/net6webAPI.staticwebassets.runtime.json
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/net6webAPI
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/net6webAPI.deps.json
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/net6webAPI.runtimeconfig.json
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/net6webAPI.pdb
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Azure.Core.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Azure.Identity.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Humanizer.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.CodeDom.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.csproj.AssemblyReference.cache
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.AssemblyInfoInputs.cache
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.AssemblyInfo.cs
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.csproj.CoreCompileInputs.cache
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/staticwebassets/msbuild.net6webAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/staticwebassets/msbuild.build.net6webAPI.props
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.net6webAPI.props
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.net6webAPI.props
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/scopedcss/bundle/net6webAPI.styles.css
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.csproj.CopyComplete
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/refint/net6webAPI.dll
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.pdb
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/net6webAPI.genruntimeconfig.cache
+/Users/jiling/Desktop/Yong/net6webAPI for EmployeeDB/obj/Debug/net6.0/ref/net6webAPI.dll
